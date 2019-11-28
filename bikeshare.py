@@ -11,7 +11,7 @@ def get_city():
     Returns:
         (str) Filename for a city's bikeshare data.
     '''
-    city = input('\nHello! Let\'s analyze some US bikeshare data!\n'
+    city = input('\nHello! Let\'s analyze some US bikeshare data together following the provided guide line!\n'
                  'Would you like to see data for Chicago, New York, or Washington?\n').title()
     if city == 'Chicago' or city == 'C':
         return 'chicago.csv'
