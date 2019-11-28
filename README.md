@@ -10,6 +10,7 @@ In this project, Python is used to explore data related to bike share systems fo
 This is the 2nd project in the Udacity datat science nano degree course
 ### Files used
 bikeshare.py
+I also used data filed from chocaco, new york and washington cities
 ### Credits
 Data used here was extracted from course material. Thanks to Udacity for making this happen
 
